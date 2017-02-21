@@ -6,7 +6,7 @@
 <p>Note that there are two imaginary front lines. At the beginning, the invaders are behind the front line 1 and move to right. When they reach to the right boundary, they come closer to the defender (= between front line 1 and 2) and keep moving to the left side. If they reach to the left boundary again, you lose the game.</p>
 <p>However, if you break the two invaders before reaching the left boundary, you will move to the level 2. </p>
 <p align="center">
-<img src="https://github.com/eduardotrejo/GameDevelopment/blob/master/Invader/invader.png>
+<img src="https://github.com/eduardotrejo/GameDevelopment/blob/master/Invader/invader.png">
 </p>
 
 <b>Ongoing game</b>
