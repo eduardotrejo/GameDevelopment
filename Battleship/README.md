@@ -4,7 +4,7 @@
 The board once at the beginning and after each guess. At the beginning of the game, the board should be all Os.</p>
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/eduardotrejo/GameDevelopment/blob/master/Battleship/battleship.png"/>
 </p>
 * Each hit should be marked by an '*'
 * Each miss should be marked by an 'X'
