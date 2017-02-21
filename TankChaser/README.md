@@ -4,7 +4,7 @@
 <p>An enemy tank should move away from your tank continuously. However, the speed should be lower than your tank’s one</p>
 <p>Both tanks can move to only four directions. Your tank should be controlled by a human player using the arrow keys (UP/DOWN/LEFT/RIGHT). But the enemy tank should be controlled by a computer.</p>
 <p align="center">
-<img src="https://github.com/eduardotrejo/GameDevelopment/blob/master/TankChaser/tank_chaser.png"/>
+<img src="https://github.com/eduardotrejo/GameDevelopment/blob/master/TankChaser/tankchaser.png"/>
 </p>
 
 <b>Game play:</b>
