@@ -3,7 +3,6 @@
  * Abstract: This program is a simple blockbreak game. Uses two structs to create the paddle and
  *			 ball. If you lose all 3 balls it's gameover and if you destroy all 3 bricks you win.
  * Author: Eduardo Trejo
- * ID: 6787
  * Date: 09/28/2014
  */
 #include <allegro.h>
