@@ -1,10 +1,9 @@
 /**
 * Title: invader.c
 * Abstract: This program acts as an invader game. In the game, there are two invaders 
-*			at the level 1 and three invaders at the level 2. And also, there’s one
+*			at the level 1 and three invaders at the level 2. And also, thereâ€™s one
 *			barricade to protect the defender.	
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 10/24/2014
 */
 
