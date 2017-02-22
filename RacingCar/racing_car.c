@@ -2,11 +2,10 @@
 * Title: racing_car.c
 * Abstract: This program implements a race car game which has two levels.
 *			The player should be able to speed up or down using the keys 0, 1, 2, 3, and 4.
-*			Initially, the car’s speed is zero. The second level will contain enemies
+*			Initially, the carâ€™s speed is zero. The second level will contain enemies
 *			if you collide with them your speed will drop to 0. Reach the end of the second level
 *			for the game to end.
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 11/16/2014
 */
 
