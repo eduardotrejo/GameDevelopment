@@ -4,7 +4,6 @@
 *			many enemy tanks as possible in the time constrain of 15 seconds.
 *			In the game, the tanks can move only four directions (up/down/right/left).
 * Author: Eduardo Trejo
-* ID: 6787
 * Date: 11/01/2014
 */
 
