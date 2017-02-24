@@ -9,7 +9,7 @@
 <p>When your car reaches at the end of map, your game pauses a few seconds and moves to the level two.
 </p>
 <b>Level 2</b>
-<p>Atlevel two, the game should have enemy cars (= maximum five enemy cars)</p>
+<p>At level two, the game should have enemy cars (= maximum five enemy cars)</p>
 
 <b>When an enemy car hits your car, the speed should be zero and background should not move.</b>
 <p>When your car reaches at the end of map again, your game should finish.</p>
